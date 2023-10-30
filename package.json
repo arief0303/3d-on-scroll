@@ -1,0 +1,34 @@
+{
+  "name": "deepna",
+  "version": "1.0.0",
+  "private": true,
+  "description": "deepna",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@14islands/r3f-scroll-rig": "^8.12.3",
+    "@react-three/drei": "^9.88.9",
+    "@react-three/fiber": "^8.15.9",
+    "@types/three": "^0.158.0",
+    "autoprefixer": "^10.4.16",
+    "gatsby": "^5.12.9",
+    "gatsby-plugin-image": "^3.12.3",
+    "gatsby-plugin-postcss": "^6.12.0",
+    "gatsby-plugin-sharp": "^5.12.3",
+    "gatsby-source-filesystem": "^5.12.1",
+    "gatsby-transformer-sharp": "^5.12.3",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.5",
+    "three": "^0.158.0"
+  }
+}
