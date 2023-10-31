@@ -17,6 +17,7 @@
     "@14islands/r3f-scroll-rig": "^8.12.3",
     "@react-three/drei": "^9.88.9",
     "@react-three/fiber": "^8.15.9",
+    "@tweenjs/tween.js": "^21.0.0",
     "@types/three": "^0.158.0",
     "autoprefixer": "^10.4.16",
     "gatsby": "^5.12.9",
